@@ -1,0 +1,13 @@
+{
+  "name": "compute-service",
+  "version": "1.0.0",
+  "description": "distributes a fresh .compute archive",
+  "main": "index.js",
+  "author": "Xiphiar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-easy-zip": "^1.1.5",
+    "express-zip": "^3.0.0"
+  }
+}
